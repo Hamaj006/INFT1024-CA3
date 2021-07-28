@@ -8,17 +8,16 @@
 
     }
     body {
-        background-color:black;
-        
+        background-color:black;       
 
     }
     .box {
         color: yellow;
         font-size: 100%;
-        margin-left: 5px;
-        margin-right: 5px;
         padding-left: 5px;
         padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
         border-top: 1px solid white;
         border-bottom: 1px solid white;
         border-left: 1px solid white;
@@ -28,16 +27,15 @@
     }
     th, td {
         color: white;
-        margin-left: 5px;
-        margin-right: 5px;
         padding-left: 5px;
         padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
         border-top: 1px solid white;
         border-bottom: 1px solid white;
         border-left: 1px solid white;
         border-right: 1px solid white;
         
-
     }
-    
+
 }
